@@ -1,0 +1,128 @@
+#margen{
+    margin-top: 15px;
+}
+
+#sizeheader{
+    height: 60px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#iglogo{
+    height: 45px;
+    width: 45;
+    margin-top: 10px;
+    margin-left: 35px;
+    border-radius: 10px;
+}
+
+#twlogo{
+    height: 45px;
+    width: 45;
+    margin-top: 10px;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+
+#esquinasperfil{
+    border: 2px solid black;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    margin-bottom: 10px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+#sizebanner{
+    height: 750px;
+}
+
+.banner{
+    width: 100%;
+    object-fit: cover;
+    object-position: center center;
+    height:700px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    z-index: -1;
+}
+
+.perfil{
+    position: absolute;
+    height: 250px;
+    width: 250px;
+    top: 490px;
+    left: 105px;
+    z-index: 1;
+    border-radius: 20px;
+}
+
+#sizeexperiencia{
+    height: 150px;
+    margin-bottom: 10px;
+    border: 2px solid black;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+#sizeeducacion{
+    height: 325px;
+    margin-bottom: 10px;
+    border: 2px solid black;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+#uncomalogo{
+    border-radius: 50px;
+    height: 90px;
+    width: 90px;
+}
+
+#eclalogo{
+    border-radius: 50px;
+    height: 90px;
+    width: 90px;
+}
+
+#sizeskills{
+    height: 500px;
+    border: 2px solid black;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.progress {
+    height: 35px;
+    width: 80%;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: DeepSkyBlue;
+    margin-bottom: 15px;
+    margin-left: 130px;
+}
+
+.progress-bar-text {
+    margin-left: 10px;
+    font-weight: bold;
+    color: black;
+}
+
+#sizeproyectos{
+    height: 300px;
+    margin-bottom: 10px;
+    border: 2px solid black;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
